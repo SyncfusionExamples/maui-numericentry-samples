@@ -5,7 +5,7 @@ The .NET MAUI NumericEntry control is designed to provide a user-friendly and ad
 
 Documentation: https://help.syncfusion.com/maui/numericentry/getting-started
 
-## Adding the .NET MAUI NumericEntry 
+### Adding the .NET MAUI NumericEntry 
 Step 1: Add the NuGet to the project and add the namespace as shown in the following code sample:
 
 **[XAML]**
