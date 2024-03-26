@@ -1,6 +1,6 @@
 # maui-numericentry-samples
 Contains samples for .NET MAUI Numeric Entry
-# Getting started with Numeric Entry control
+## Getting started with Numeric Entry control
 The .NET MAUI NumericEntry control is designed to provide a user-friendly and advanced input experience for numeric values. It supports a wide range of numeric formats, including currency, percentages, decimals, and more. With its key features, it enables enhanced user experience and facilitates input validation.
 
 Documentation: https://help.syncfusion.com/maui/numericentry/getting-started
